@@ -1,7 +1,7 @@
 :root {
-    --primary-dark: #333;
+    --primary-dark: #000000;
     --secondary-dark: #444;
-    --primary-light: #eee;
+    --primary-light: #e3e3e3;
     --secondary-light: #ddd;
   }
   
@@ -20,8 +20,8 @@
   }
   
   body {
-    background-color: var(--primary-light);
-    color: var(--primary-dark);
+    background-color: #cad2dc;
+    color: #000000;
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     /* footer support */
@@ -104,7 +104,7 @@
     width: 300px;
     min-width: 250px;
     padding: 20px;
-    background-color: var(--secondary-light);
+    background-color: #929297;
   }
   
   .nav.active {
