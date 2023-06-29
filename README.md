@@ -33,14 +33,9 @@
 <h3 align="center">Todo_list</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
+    A simple to-do web app.
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
